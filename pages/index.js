@@ -1,6 +1,7 @@
 import Head from "next/head";
 import Image from "next/image";
 import styled from "styled-components";
+import BP from "../src/components/BP";
 import Footer from "../src/components/Footer";
 import GreenSection from "../src/components/Green";
 import Hero from "../src/components/Hero";
@@ -14,6 +15,7 @@ export default function Home() {
       <Hero />
       <WhoAreWe />
       <GreenSection />
+      <BP />
       <Footer />
     </Container>
   );

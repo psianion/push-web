@@ -30,6 +30,10 @@ class MyDocument extends Document {
             type="text/css"
             rel="stylesheet"
           />
+          <link
+            href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500&display=swap"
+            rel="stylesheet"
+          />
         </Head>
         <body>
           <Main />
