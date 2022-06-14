@@ -39,9 +39,9 @@ function GreenSection() {
               <SideSection>
                 <SideHeading>Sorry, COD nahi ho payega :(</SideHeading>
                 <SideText>
-                  We know you've heard this a lot, but at push you don't have
-                  to. We provide COD on thrifted items to reduce fraudulent
-                  selling.
+                  We know you&apos;ve heard this a lot, but at push you
+                  don&apos;t have to. We provide COD on thrifted items to reduce
+                  fraudulent selling.
                 </SideText>
               </SideSection>
             </Option>
@@ -52,9 +52,9 @@ function GreenSection() {
               <SideSection>
                 <SideHeading>Tired of buyers changing their mind?</SideHeading>
                 <SideText>
-                  At push, you don't have to individually handle each customer.
-                  We want you to focus on your business, and we will take care
-                  of the rest!
+                  At push, you don&apos;t have to individually handle each
+                  customer. We want you to focus on your business, and we will
+                  take care of the rest!
                 </SideText>
               </SideSection>
             </Option>
